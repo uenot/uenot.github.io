@@ -38,8 +38,8 @@ const Projects = () => {
         </p>
       </div>
       <div className="project">
-        <h2><Link to="/aboutsite">This Website</Link></h2>
-        <p>See the dedicated "<Link to="/aboutsite">About this Site</Link>" page for more info.</p>
+        <h2><Link to="/site">This Website</Link></h2>
+        <p>See the dedicated "<Link to="/site">About the Site</Link>" page for more info.</p>
 
       </div>
     </div>

@@ -9,7 +9,7 @@ const SideBar = () => {
         <Link to="/">Home</Link>
         <Link to="/about">About Me</Link>
         <Link to="/projects">Current Projects</Link>
-        <Link to="/site">About this Site</Link>
+        <Link to="/site">About the Site</Link>
       </ul>
     </div>
   );
